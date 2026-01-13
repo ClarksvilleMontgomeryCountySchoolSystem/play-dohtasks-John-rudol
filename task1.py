@@ -1,4 +1,5 @@
-    color1 = "red"
+def main():
+color1 = "red"
 
     print(f"1) Use {color1} to roll a medium-sized ball.\n")
     choice1 = input("big or small? ")
