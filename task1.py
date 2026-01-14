@@ -1,6 +1,6 @@
 def main():
     # Enter your color.
-    color1 = "red"
+    color1 = "pink"
 
     print(f"1) Use {color1} to roll a medium-sized ball.\n")
     choice1 = input("big or small? ")
@@ -17,7 +17,7 @@ def main():
     choice2 = input("option 1 or option 2? ")
     # Use == to check the User's choice.
     # Remember you are checking equality to a string. You must use quotes.
-    if choice2 == "option1":
+    if choice2 == "option 1":
      print("7) Pinch the small ball to make it pointy.\n")
     else:
      print("7) Keep the small ball round.\n")
