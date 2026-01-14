@@ -5,9 +5,9 @@ def main():
     choice1 = input(" 1, 2, or 3 ?")
     if choice1 == "response to test":
      print("2) Make the ball flat.\n")
-    elif choice1 == "response to test":
+    elif choice1 == "response to test": 
      print("2) Form the ball into an egg shape.\n")
-    else:
+    else: 
      print("2) Keep it round.\n")
     print(f"3) Use {color1} to roll two thin ropes.\n")
     choice2 = input(" A or B ?\n")
