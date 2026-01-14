@@ -1,3 +1,20 @@
+"""
+ANSWER BOX - Copy the strings you need:
+
+"long body or round body?"
+") Add a small bump using {color2} to the back.\n"
+") Roll a smaller ball using {color1} for the head.\n"
+") Keep it as a ball.\n"
+"long tail or short tail?"
+") Roll a ball using {color1}.\n"
+") Add four small legs to the bottom using {color1}.\n"
+") Roll a thin rope using {color2} and attach to the back.\n"
+") Name this creation: "Mouse""
+") Roll the ball into an egg shape.\n"
+") Add two dots for eyes and a tiny nose.\n"
+") Attach the head to one end of the body.\n"
+"""
+
 def main():
     color1 = "gray"
     color2 = "pink"
