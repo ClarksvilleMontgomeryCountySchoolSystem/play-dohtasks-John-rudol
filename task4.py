@@ -16,7 +16,7 @@ ANSWER BOX - Copy the strings you need:
 """
 
 def main():
-    color1 = "brown"
+    color1 = "blue"
     color2 = "tan"
     print(f" 1)Roll a ball using {color1} for the body\n")
     choice1 = input("hot dog or kept round like a ball? ")
