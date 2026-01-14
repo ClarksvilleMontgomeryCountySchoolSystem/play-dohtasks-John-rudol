@@ -12,13 +12,13 @@ def main():
     print("3) Roll four small pieces into short ropes.\n")
     print("4) Attach them to the bottom.\n")
     print(f"5) Use {color1} to roll a small ball.\n")
-    print("5) Attach it to one side.\n")
+    print("6) Attach it to one side.\n")
     #Go to user - Include a space after the ? in your prompt.
     choice2 = input("option 1 or option 2? ")
     # Use == to check the User's choice.
     # Remember you are checking equality to a string. You must use quotes.
-    if choice2 == "response to test":
-     print("6) Pinch the small ball to make it pointy.\n")
+    if choice2 == "option1":
+     print("7) Pinch the small ball to make it pointy.\n")
     else:
      print("7) Keep the small ball round.\n")
     print("8) Poke two tiny holes in the small ball for eyes.\n")
