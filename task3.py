@@ -2,7 +2,7 @@ def main():
     color1 = "gray"
     color2 = "pink"
     print(f"1) Roll a ball using {color1}.\n")
-    choice1 = input("long body or a round body? \n")
+    choice1 = input("long body or a round body?\n")
     # CAUTION: You must include the word "body" when checking!
     if choice1 == "long body":
      print("2) Roll the ball into an egg shape.\n")
