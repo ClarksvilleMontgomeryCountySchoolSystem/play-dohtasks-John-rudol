@@ -5,7 +5,7 @@ def main():
     choice1 = input("long body or round body? ")
     # CAUTION: You must include the word "body" when checking!
     if choice1 == "long body":
-     print("2) Roll the ball into an egg shape.\  n")
+     print("2) Roll the ball into an egg shape.\n")
     else:
      print("2) Keep it as a ball.\n")
     print(f"3) Roll a smaller ball using {color1} for the head.\n")
