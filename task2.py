@@ -3,7 +3,7 @@ def main():
     color1 = "pink"
     color2 = "teal"
     print(f"1) Use {color2} to roll a ball.\n")
-    choice1 = input("1, 2, or 3 ?")
+    choice1 = input("1, 2, or 3?")
     if choice1 == "1":
      print("2) Make the ball flat.\n")
     elif choice1 == "2":
