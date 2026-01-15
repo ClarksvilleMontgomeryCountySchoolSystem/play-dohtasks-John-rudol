@@ -1,6 +1,3 @@
-def input(param):
-    pass
-
 
 def main():
     color1 = "pink"
