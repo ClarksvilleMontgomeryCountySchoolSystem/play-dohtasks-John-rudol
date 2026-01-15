@@ -2,13 +2,13 @@ def main():
     color1 = "brown"
     color2 = "tan"
     print(f"1) Roll a ball using {color1} for the body.\n")
-    choice1 = input(" long body or round body? ")
-    if choice1 == "long body":
+    choice1 = input("long body or round body? ")
+    if choice1 == "hot dog":
         print("2) Stretch it out.\n")
     else:
         print("2) Keep it round.\n")
     print(f"3) Roll a smaller ball using {color1} for the head.\n")
-    print("4)Attach the head to the body.\n")
+    print("4) Attach the head to the body.\n")
     choice2 = input("standing up or flopped down? ")
     if choice2 == "standing up":
         print(f"5) Attach two pointed pieces using {color2} upright.\n")
