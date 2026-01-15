@@ -6,9 +6,9 @@ def main():
     choice1 = input("big or small? ")
     # == Is used to test for equality.
     if choice1 == "big":
-     print("2) Flatten the ball into a wide disc.\n")
+        print("2) Flatten the ball into a wide disc.\n")
     else:
-     print("2) Keep it as a ball.\n")
+        print("2) Keep it as a ball.\n")
     print("3) Roll four small pieces into short ropes.\n")
     print("4) Attach them to the bottom.\n")
     print(f"5) Use {color1} to roll a small ball.\n")
@@ -18,9 +18,9 @@ def main():
     # Use == to check the User's choice.
     # Remember you are checking equality to a string. You must use quotes.
     if choice2 == "option 1":
-     print("7) Pinch the small ball to make it pointy.\n")
+        print("7) Pinch the small ball to make it pointy.\n")
     else:
-     print("7) Keep the small ball round.\n")
+        print("7) Keep the small ball round.\n")
     print("8) Poke two tiny holes in the small ball for eyes.\n")
     print('9) Write "Turtle" on the name card.')
 
