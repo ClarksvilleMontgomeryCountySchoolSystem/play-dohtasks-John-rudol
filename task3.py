@@ -14,7 +14,7 @@ def main():
     if choice2 == "long tail":
      print(f"5) Roll a thin rope using {color2} and attach to the back.\n")
     else:
-     print(f"5) Add a small bump using{color2} to the back.\n")
+     print(f"5) Add a small bump using {color2} to the back.\n")
      print(f"6) Add four small legs using {color1}.\n")
     print("7) Add two dots for eyes and a tiny nose.\n")
     print(' Name this creation: "Mouse"')
